@@ -1,5 +1,5 @@
-username_db = ["ironman"]
-pw_database = ["xxx"]
+username_db = []
+pw_database = []
 
 def main():
 	response = input("'Logon' or 'create' ?").lower()
